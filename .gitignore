@@ -1,8 +1,8 @@
 Content/*
-!Content/AnimStarterPack/
-!Content/Asian_town/
-!Content/Assets/
-!Content/LearningKit_Games/
+!Content/Blueprints/
+!Content/Maps/
+
+Content/Blueprints/Character/Animation/Animations
 
 # Visual Studio 2015 user specific files
 .vs/
