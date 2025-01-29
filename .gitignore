@@ -1,3 +1,9 @@
+Content/*
+!Content/AnimStarterPack/
+!Content/Asian_town/
+!Content/Assets/
+!Content/LearningKit_Games/
+
 # Visual Studio 2015 user specific files
 .vs/
 
